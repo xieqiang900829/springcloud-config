@@ -13,7 +13,7 @@ public class Application {
 
 	public static void main(String[] args) {
 
-		//配置中心
+		//配置中心-谢强
 		SpringApplication.run(Application.class, args);
 	}
 }
